@@ -8,7 +8,8 @@
 -->
 
 # 25春软件项目管理和问题求解实战课程主页
-
+软件项目管理：SPM
+问题求解实战：PSP
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
