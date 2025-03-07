@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# 25春软件项目管理和问题求解实战课程主页
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
