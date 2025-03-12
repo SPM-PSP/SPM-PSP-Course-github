@@ -14,8 +14,7 @@
 
 ## 1. 项目策划
 ## 2. 需求分析
-   ### SRS 参考 [[srs_templage-ieee.pdf]]
-
+   ### SRS 参考 (https://github.com/SPM-PSP/SPM-PSP-Course-github/blob/main/srs_template-ieee.pdf)
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
