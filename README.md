@@ -12,6 +12,11 @@
 ## 软件项目管理：SPM
 ## 问题求解实战：PSP 
 
+1. 项目策划
+2. 需求分析
+   ## SRS 参考 [[srs_templage-ieee.pdf]]
+
+
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
