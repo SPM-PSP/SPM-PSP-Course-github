@@ -35,7 +35,29 @@
          B 术语与缩略语
          
 ## 3. 系统设计
-  ### 系统（概要）设计说明书（SDD， System Design Documentation） 参考模板 ()
+  ### 系统（概要）设计说明书（SSDD， System/Subsystem Design Documentation） 参考模板 (https://github.com/SPM-PSP/SPM-PSP-Course-github/blob/main/SDD_Template.pdf)
+  包括：
+     1. 系统概述
+     2. 总体设计
+       2.1 系统架构
+       2.2 系统组成（软、硬件）
+       2.2 数据设计
+     3. 功能设计
+       3.1 xx设计
+       。。。。
+       3.x xx设计
+     4. 接口设计
+       4.1 外部接口设计
+       4.2 内部接口设计
+       4.3 人机接口设计
+     5. 性能指标设计
+       5.1 xx性能指标设计
+     6. 其它设计
+        可靠性、可维护性、安全性等设计
+     附录：
+        A 需求/设计跟踪矩阵
+          正向：需求规格->设计
+          反向：设计->需求规格
 
 ## 4. 详细设计与编码实现
 
