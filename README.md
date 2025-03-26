@@ -36,7 +36,7 @@
          
 ## 3. 系统设计
   ### 系统（概要）设计说明书（SSDD， System/Subsystem Design Documentation） 参考模板 (https://github.com/SPM-PSP/SPM-PSP-Course-github/blob/main/SDD_Template.pdf)
-  包括：
+    包括：
      1. 系统概述
      2. 总体设计
        2.1 系统架构
@@ -58,6 +58,7 @@
         A 需求/设计跟踪矩阵
           正向：需求规格->设计
           反向：设计->需求规格
+          
 
 ## 4. 详细设计与编码实现
 
