@@ -67,10 +67,10 @@
 ## 5. 测试设计与实施
 - ### 5.1 软件测试是对需求的确认（Verification and Validation）
 - ### 5.2 软件测试方法有很多分类，比如按阶段、按源码是否公开，但我们从需求确认技术层面强调：IADT
-      - ####  I： Inspection， 检查
-      - ####  A： Analysis，分析
-      - ####  D： Demonstration，演示
-      - ####  T： Test，测试
+    - ####  I： Inspection， 检查
+    - ####  A： Analysis，分析
+    - ####  D： Demonstration，演示
+    - ####  T： Test，测试
    - ### 一个需求常常需要上述IADT方法的一种或多种方法组合来验证与确认
 - ### 5.3 测试设计（提纲）
   xxx系统测试计划和测试程序
